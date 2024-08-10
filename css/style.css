@@ -631,9 +631,12 @@ height: auto;
     }
     .header-nav li a{
         font-size: 16px;
+        padding: 0;
+        margin: 0;
     }
     .header-log{
         font-size: 20px;
+        margin-left: -20px;
     }
     .healthy-text {
         width: 100%;
