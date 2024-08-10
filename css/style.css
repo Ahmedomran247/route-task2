@@ -630,19 +630,23 @@ height: auto;
         flex-wrap: wrap;
     }
     .header-nav li a{
-        font-size: 16px;
+        font-size: 14px;
         padding: 0;
-        margin: 0;
+        margin-right: 5px;
     }
     .header-log{
         font-size: 20px;
         margin-left: -20px;
+    }
+    .header-nav{
+        gap: 10px;
     }
     .healthy-text {
         width: 100%;
         margin: auto;
         font-size: 16px;
     }
+   
     .header-log::after{
         width: 5px;
         height: 5px;
